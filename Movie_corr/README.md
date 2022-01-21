@@ -21,3 +21,13 @@ which factors have low affect on the gross earning of the movie ?
 
 ### Data cleaning and preparation
 
+* Check if there any any missing data useing for loop.
+* We had conspirancy between year and release date so we correct it .
+* Set data types 
+
+#### EDA
+* Scatter plot with budget vs gross
+There is strong correlation between budget and gross earning of the film 
+https://github.com/omarov10001/Portfolio/blob/main/Movie_corr/Images/scatter.JPG
+
+
