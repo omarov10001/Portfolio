@@ -28,6 +28,6 @@ which factors have low affect on the gross earning of the movie ?
 #### EDA
 * Scatter plot with budget vs gross
 There is strong correlation between budget and gross earning of the film 
-[s](https://github.com/omarov10001/Portfolio/blob/main/Movie_corr/Images/scatter.JPG)
+![alt text](https://github.com/omarov10001/Portfolio/blob/main/Movie_corr/Images/scatter.JPG)
 
 
