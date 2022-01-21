@@ -5,7 +5,7 @@
 * libraries used are pandas, numpy, matplotlib and seaborn .  
 * You can access the code [HERE](https://github.com/omarov10001/Portfolio/blob/main/Movie_corr/Python_Movie_corr.ipynb)
 
-### Objectives
+## Objectives
 
 Central question:
 
@@ -18,13 +18,13 @@ What is the relationship between the company and gross earning of the movie?
 which factors have high correlation to the gross earning of the movie ?
 
 
-### Data cleaning and preparation
+## Data cleaning and preparation
 
 * Check if there any any missing data useing for loop.
 * We had conspirancy between year and release date so we correct it .
 * Set data types 
 
-#### EDA
+## EDA
 * Scatter plot of movies budget vs gross earning 
 
 As we can see there is strong correlation between budget and gross earning of the movie 
@@ -40,7 +40,7 @@ As we can see there is strong correlation between budget and gross earning of th
 ![alt text](https://github.com/omarov10001/Portfolio/blob/main/Movie_corr/Images/corr1.JPG)
 
 
-##### Conclusions
+## Conclusions
 
 * The Budget of the movie has the highest correlation to the movie gross earnings 
 * The company has low correlation to the movie gross earnings 
