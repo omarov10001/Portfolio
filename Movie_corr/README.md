@@ -26,8 +26,17 @@ which factors have low affect on the gross earning of the movie ?
 * Set data types 
 
 #### EDA
-* Scatter plot with budget vs gross
-There is strong correlation between budget and gross earning of the film 
+* Scatter plot of movies budget vs gross earning 
+
+As we can see there is strong correlation between budget and gross earning of the movie 
+
 ![alt text](https://github.com/omarov10001/Portfolio/blob/main/Movie_corr/Images/scatter.JPG)
+
+* We then made correlation Matrix between all numeric columns and plot it using Seaborn 
+
+![alt text](https://github.com/omarov10001/Portfolio/blob/main/Movie_corr/Images/corr.JPG)
+
+
+
 
 
