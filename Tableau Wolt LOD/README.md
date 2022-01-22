@@ -32,5 +32,16 @@ Create visualizations showing the monthly customer retention per product line to
 ## Tableau Visualisation 
 
 * In this project I did minimal Data preparation using SQL because I used Tableau powerfull features , I plotted the data using LOD (calculated field)
-* View the Highlight table from [HERE](https://public.tableau.com/app/profile/omar.banat/viz/CustomerretentionT/Dashboard1)
+* View the Highlight table visualisation from [HERE](https://public.tableau.com/app/profile/omar.banat/viz/CustomerretentionT/Dashboard1)
+
 ![alttext](https://github.com/omarov10001/Portfolio/blob/main/Tableau%20Wolt%20LOD/Images/Table.JPG)
+
+* View the Line visualisation from [HERE](https://public.tableau.com/app/profile/omar.banat/viz/Customerretention_16427738712160/Dashboard2)
+
+![alttext](https://github.com/omarov10001/Portfolio/blob/main/Tableau%20Wolt%20LOD/Images/Line.JPG)
+
+## Conclusions
+* Restaurants have higher overall customer retention .
+* There has been strong drop of Retail customer retention for the cohort of march on the months of (April , July and October).
+* There has been strong drop of Restaurant customer retention for the cohort of march on the April.
+* The rest of the fields look stable and steady.
