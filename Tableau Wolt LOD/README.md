@@ -33,4 +33,4 @@ Create visualizations showing the monthly customer retention per product line to
 
 * In this project I did minimal Data preparation using SQL because I used Tableau powerfull features , I plotted the data using LOD (calculated field)
 * View the Highlight table from [HERE](https://public.tableau.com/app/profile/omar.banat/viz/CustomerretentionT/Dashboard1)
-
+![alttext](https://github.com/omarov10001/Portfolio/blob/main/Tableau%20Wolt%20LOD/Images/Table.JPG)
