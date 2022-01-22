@@ -28,7 +28,7 @@ Create visualizations showing the monthly customer retention per product line to
 * The Query aim  is to get table with 4 columns cohort month , cohort size , month number in the relation of the cohort 
 month and percentage of customer retention of that month 
 * I Separated the users depending of the product line 
-* View the SQL query where the product line is  "Retaurant" from [HERE](https://github.com/omarov10001/Portfolio/blob/main/SQL%20Wolt%20Customer%20retention/SQLRest.sql)
+* View the SQL query where the product line is  "Restaurant" from [HERE](https://github.com/omarov10001/Portfolio/blob/main/SQL%20Wolt%20Customer%20retention/SQLRest.sql)
 * View the SQL query where the product line is  "Retail store" from [HERE](https://github.com/omarov10001/Portfolio/blob/main/SQL%20Wolt%20Customer%20retention/SQLRetail.sql)
 
 The result of the SQL query looks like this 
@@ -50,3 +50,4 @@ The result of the SQL query looks like this
 * There has been strong drop of Retail customer retention for the cohort of march on the months of (April , July and October).
 * There has been strong drop of Restaurant customer retention for the cohort of march on the April.
 * The rest of the fields look stable and steady.
+* The data had to have details about the revenue so we are able to make more clear business decisions  
