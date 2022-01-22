@@ -45,3 +45,5 @@ Create visualizations showing the monthly customer retention per product line to
 * There has been strong drop of Retail customer retention for the cohort of march on the months of (April , July and October).
 * There has been strong drop of Restaurant customer retention for the cohort of march on the April.
 * The rest of the fields look stable and steady.
+* The data had to have details about the revenue so we are able to make more clear business decisions  
+
