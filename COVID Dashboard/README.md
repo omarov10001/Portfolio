@@ -1,4 +1,4 @@
-# COVID 19 Overview
+# Visual Exploratory Data Analysis of COVID-19 Pandemic
 
 ## Overview
 
