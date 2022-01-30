@@ -10,4 +10,4 @@ In this project I used K-means clustering approach to determine the optimal loca
 
 Population-related data was obtained from the Tilastokeskus (or Statistics Finland) . Tilastokeskus is a Finnish governmental agency that annually publishes census and other types of data pertaining to Finland at the country, municipal, and neighborhood levels ,View the data from [HERE](https://github.com/omarov10001/Portfolio/blob/main/Hel_Gym/HelsinkiData.xlsx) ,Venue-related data was obtained using the Foursquare API.
 
-View the notebook from [HERE](https://nbviewer.org/github/omarov10001/Portfolio/blob/main/Hel_Gym/Helsinki_Gym.ipynb)
+View the notebook from [HERE](https://deepnote.com/viewer/github/omarov10001/Portfolio/blob/main/Hel_Gym/Helsinki_Gym.ipynb)
