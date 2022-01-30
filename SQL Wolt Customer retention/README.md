@@ -1,6 +1,6 @@
-# SQL Cohort Analysis for Wolt Delveries 
+# Monthly Cohort Analysis for Wolt Delveries 
 
-## Project Overview 
+##  Overview 
 
 Customer retention can be described as a way to look at how engaged and loyal customers are, that is, whether they continue using the service after their first purchase.
 In this Project we want to see how well Wolt manages to retain its customers month after month based on when users made their first ever purchase.
@@ -22,8 +22,14 @@ Create visualizations showing the monthly customer retention per product line to
 
 * Cohort based monthly retention for Retail product line
 * Cohort based monthly retention for Restaurant product line
+## Methodology 
+
+I used two methods to manipulate the data and get it ready for Tableau visualization :
+1.Using SQL to manipulate the data , the result is ready table for visualization using Tableau.
+2.Using SQL , I union the both raw tables and then using Tableau LOD , I visualize the data.
 
 ## SQL Query 
+### The First approach:
 
 * The Query aim  is to get table with 4 columns cohort month , cohort size , month number in the relation of the cohort 
 month and percentage of customer retention of that month 
@@ -34,6 +40,12 @@ month and percentage of customer retention of that month
 The result of the SQL query looks like this 
 
 ![alttext](https://github.com/omarov10001/Portfolio/blob/main/SQL%20Wolt%20Customer%20retention/Images/SQLRest.JPG)
+
+### The Second approach:
+
+* I used SQL to prepare the data for visualization in Tableau by union all the data and separate them depending on the product line either "Restaurant" or "Retail store".
+* View the SQL query for "Restaurant" from [HERE](https://github.com/omarov10001/Portfolio/blob/main/Tableau%20Wolt%20LOD/SQLQueryRest.sql)
+* View the SQL query for "Retail store" from [HERE](https://github.com/omarov10001/Portfolio/blob/main/Tableau%20Wolt%20LOD/SQLQueryRetail.sql)
 
 ## Tableau Visualisation
 
