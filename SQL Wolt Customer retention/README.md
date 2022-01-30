@@ -56,10 +56,15 @@ The result of the SQL query looks like this
 * View the Line visualisation from [HERE](https://public.tableau.com/app/profile/omar.banat/viz/Customerretention_16427738712160/Dashboard2)
 
 ![alttext](https://github.com/omarov10001/Portfolio/blob/main/SQL%20Wolt%20Customer%20retention/Images/Line.JPG)
-
-## Conclusions
+## Discussion
 * Restaurants have higher overall customer retention .
 * There has been strong drop of Retail customer retention for the cohort of march on the months of (April , July and October).
 * There has been strong drop of Restaurant customer retention for the cohort of march on the April.
-* The rest of the fields look stable and steady.
-* The data had to have details about the revenue so we are able to make more clear business decisions  
+
+## Limitations and Future Directions
+The present analysis represents the "first phase" of what would become a larger examination . As such, I acknowledge that there are limitations that should be addressed in subsequent analyses.The data had to have details about the revenue so we are able to make more clear business decisions  
+
+
+## Conclusion
+In this project, I examined the  client's question of "how well Wolt manages to retain its customers month after month based on when users made their first ever purchase?" Using artificial dataset that could be produced by our purchase process,I manipulated the data through two approaches using SQL and then I visualized the data using Tableau.Overall Wolt is better in retaining Restaurants customers.
+
