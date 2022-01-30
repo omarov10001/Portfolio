@@ -2,7 +2,7 @@
 
 ## Overview
 
-* The goal is to build a COVID report that shows summarized information about the deaths and current percentage of infections.
+* The goal of this project is to build a COVID report that shows summarized information about the deaths and current percentage of infections.
 * The tools used are SQL server and Tableau
 
 ## Data transformation and data preparation
