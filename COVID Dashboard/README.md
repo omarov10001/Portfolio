@@ -1,6 +1,6 @@
 # COVID 19 Overview
 
-## Objectives
+## Overview
 
 * The goal is to build a COVID report that shows summarized information about the deaths and current percentage of infections.
 * The tools used are SQL server and Tableau
