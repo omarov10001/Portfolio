@@ -1,5 +1,6 @@
 # Monthly Cohort Analysis for Wolt Delveries 
 
+
 ##  Overview 
 
 Customer retention can be described as a way to look at how engaged and loyal customers are, that is, whether they continue using the service after their first purchase.
@@ -25,8 +26,8 @@ Create visualizations showing the monthly customer retention per product line to
 ## Methodology 
 
 I used two methods to manipulate the data and get it ready for Tableau visualization :
-1.Using SQL to manipulate the data , the result is ready table for visualization using Tableau.
-2.Using SQL , I union the both raw tables and then using Tableau LOD , I visualize the data.
+* 1.Using SQL to manipulate the data , the result is ready table for visualization using Tableau.
+* 2.Using SQL , I union the both raw tables and then using Tableau LOD , I visualize the data.
 
 ## SQL Query 
 ### The First approach:
