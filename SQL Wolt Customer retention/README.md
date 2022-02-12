@@ -54,9 +54,7 @@ The result of the SQL query looks like this
 
 ![alttext](https://github.com/omarov10001/Portfolio/blob/main/SQL%20Wolt%20Customer%20retention/Images/Table.JPG)
 
-* View the Line visualisation from [HERE](https://public.tableau.com/app/profile/omar.banat/viz/Customerretention_16427738712160/Dashboard2)
 
-![alttext](https://github.com/omarov10001/Portfolio/blob/main/SQL%20Wolt%20Customer%20retention/Images/Line.JPG)
 ## Discussion
 * Restaurants have higher overall customer retention .
 * There has been strong drop of Retail customer retention for the cohort of march on the months of (April , July and October).
